@@ -1,0 +1,778 @@
+[
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C16H20N2O5_plus_Cl",
+    "sumFormula": "C16H20N2O5",
+    "adduct": "+Cl",
+    "ion": "C16H20N2O5+Cl-",
+    "mz": 355.1065838074823,
+    "msmScore": 0.995792,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.997766,
+    "rhoSpectral": 0.999084,
+    "rhoChaos": 0.998937,
+    "possibleCompounds": [
+      {
+        "name": "Formylfusarochromanone",
+        "information": [
+          {
+            "databaseId": "HMDB0038970"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_C16H20N2O5+Cl-_355.1066",
+      "2016-12-07_07h59m24s_C16H20N2O5+Cl-_356.1100",
+      "2016-12-07_07h59m24s_C16H20N2O5+Cl-_357.1036",
+      "2016-12-07_07h59m24s_C16H20N2O5+Cl-_358.1071"
+    ]
+  },
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C16H20N2O5_plus_Cl",
+    "sumFormula": "C16H20N2O5",
+    "adduct": "+Cl",
+    "ion": "C16H20N2O5+Cl-",
+    "mz": 355.1065838074823,
+    "msmScore": 0.995792,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.997766,
+    "rhoSpectral": 0.999084,
+    "rhoChaos": 0.998937,
+    "possibleCompounds": [
+      {
+        "name": "Formylfusarochromanone",
+        "information": [
+          {
+            "databaseId": "HMDB38970"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_HMDB-v2.5_C16H20N2O5+Cl-_355.1066",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C16H20N2O5+Cl-_356.1100",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C16H20N2O5+Cl-_357.1036",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C16H20N2O5+Cl-_358.1071"
+    ]
+  },
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C26H43NO7S_minus_H",
+    "sumFormula": "C26H43NO7S",
+    "adduct": "-H",
+    "ion": "C26H43NO7S-H-",
+    "mz": 512.2687077614879,
+    "msmScore": 0.991154,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.994008,
+    "rhoSpectral": 0.998331,
+    "rhoChaos": 0.998797,
+    "possibleCompounds": [
+      {
+        "name": "Sulfolithocholylglycine",
+        "information": [
+          {
+            "databaseId": "HMDB0002639"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_C26H43NO7S-H-_512.2687",
+      "2016-12-07_07h59m24s_C26H43NO7S-H-_513.2721",
+      "2016-12-07_07h59m24s_C26H43NO7S-H-_514.2645",
+      "2016-12-07_07h59m24s_C26H43NO7S-H-_514.2753"
+    ]
+  },
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C26H43NO7S_minus_H",
+    "sumFormula": "C26H43NO7S",
+    "adduct": "-H",
+    "ion": "C26H43NO7S-H-",
+    "mz": 512.2687077614879,
+    "msmScore": 0.991154,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.994008,
+    "rhoSpectral": 0.998331,
+    "rhoChaos": 0.998797,
+    "possibleCompounds": [
+      {
+        "name": "Sulfolithocholylglycine",
+        "information": [
+          {
+            "databaseId": "HMDB02639"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_HMDB-v2.5_C26H43NO7S-H-_512.2687",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C26H43NO7S-H-_513.2721",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C26H43NO7S-H-_514.2645",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C26H43NO7S-H-_514.2753"
+    ]
+  },
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C16H32O2_minus_H",
+    "sumFormula": "C16H32O2",
+    "adduct": "-H",
+    "ion": "C16H32O2-H-",
+    "mz": 255.23291456948232,
+    "msmScore": 0.988489,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.990675,
+    "rhoSpectral": 0.998311,
+    "rhoChaos": 0.999481,
+    "possibleCompounds": [
+      {
+        "name": "Butyl dodecanoate",
+        "information": [
+          {
+            "databaseId": "HMDB0032065"
+          }
+        ]
+      },
+      {
+        "name": "Dodecyl butyrate",
+        "information": [
+          {
+            "databaseId": "HMDB0032249"
+          }
+        ]
+      },
+      {
+        "name": "Hexyl decanoate",
+        "information": [
+          {
+            "databaseId": "HMDB0032324"
+          }
+        ]
+      },
+      {
+        "name": "Palmitic acid",
+        "information": [
+          {
+            "databaseId": "HMDB0000220"
+          }
+        ]
+      },
+      {
+        "name": "Trimethyltridecanoic acid",
+        "information": [
+          {
+            "databaseId": "HMDB0002396"
+          }
+        ]
+      },
+      {
+        "name": "Isopalmitic acid",
+        "information": [
+          {
+            "databaseId": "HMDB0031068"
+          }
+        ]
+      },
+      {
+        "name": "Octyl octanoate",
+        "information": [
+          {
+            "databaseId": "HMDB0033166"
+          }
+        ]
+      },
+      {
+        "name": "Ethyl tetradecanoate",
+        "information": [
+          {
+            "databaseId": "HMDB0034153"
+          }
+        ]
+      },
+      {
+        "name": "Dodecyl 2-methylpropanoate",
+        "information": [
+          {
+            "databaseId": "HMDB0036210"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_C16H32O2-H-_255.2329",
+      "2016-12-07_07h59m24s_C16H32O2-H-_256.2363",
+      "2016-12-07_07h59m24s_C16H32O2-H-_257.2395",
+      "2016-12-07_07h59m24s_C16H32O2-H-_258.2418"
+    ]
+  },
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C16H32O2_minus_H",
+    "sumFormula": "C16H32O2",
+    "adduct": "-H",
+    "ion": "C16H32O2-H-",
+    "mz": 255.23291456948232,
+    "msmScore": 0.988489,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.990675,
+    "rhoSpectral": 0.998311,
+    "rhoChaos": 0.999481,
+    "possibleCompounds": [
+      {
+        "name": "Hexyl decanoate",
+        "information": [
+          {
+            "databaseId": "HMDB32324"
+          }
+        ]
+      },
+      {
+        "name": "Octyl octanoate",
+        "information": [
+          {
+            "databaseId": "HMDB33166"
+          }
+        ]
+      },
+      {
+        "name": "Trimethyltridecanoic acid",
+        "information": [
+          {
+            "databaseId": "HMDB02396"
+          }
+        ]
+      },
+      {
+        "name": "Palmitic acid",
+        "information": [
+          {
+            "databaseId": "HMDB00220"
+          }
+        ]
+      },
+      {
+        "name": "Dodecyl butyrate",
+        "information": [
+          {
+            "databaseId": "HMDB32249"
+          }
+        ]
+      },
+      {
+        "name": "Dodecyl 2-methylpropanoate",
+        "information": [
+          {
+            "databaseId": "HMDB36210"
+          }
+        ]
+      },
+      {
+        "name": "Ethyl tetradecanoate",
+        "information": [
+          {
+            "databaseId": "HMDB34153"
+          }
+        ]
+      },
+      {
+        "name": "Butyl dodecanoate",
+        "information": [
+          {
+            "databaseId": "HMDB32065"
+          }
+        ]
+      },
+      {
+        "name": "Isopalmitic acid",
+        "information": [
+          {
+            "databaseId": "HMDB31068"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_HMDB-v2.5_C16H32O2-H-_255.2329",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C16H32O2-H-_256.2363",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C16H32O2-H-_257.2395",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C16H32O2-H-_258.2418"
+    ]
+  },
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C6H12O6_plus_Cl",
+    "sumFormula": "C6H12O6",
+    "adduct": "+Cl",
+    "ion": "C6H12O6+Cl-",
+    "mz": 215.0327501514823,
+    "msmScore": 0.985302,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.992096,
+    "rhoSpectral": 0.994258,
+    "rhoChaos": 0.998887,
+    "possibleCompounds": [
+      {
+        "name": "D-Mannose",
+        "information": [
+          {
+            "databaseId": "HMDB0000169"
+          }
+        ]
+      },
+      {
+        "name": "Alpha-D-Glucopyranoside",
+        "information": [
+          {
+            "databaseId": "HMDB0061922"
+          }
+        ]
+      },
+      {
+        "name": "D-Glucose",
+        "information": [
+          {
+            "databaseId": "HMDB0000122"
+          }
+        ]
+      },
+      {
+        "name": "D-Galactose",
+        "information": [
+          {
+            "databaseId": "HMDB0000143"
+          }
+        ]
+      },
+      {
+        "name": "myo-Inositol",
+        "information": [
+          {
+            "databaseId": "HMDB0000211"
+          }
+        ]
+      },
+      {
+        "name": "3-Deoxyarabinohexonic acid",
+        "information": [
+          {
+            "databaseId": "HMDB0000346"
+          }
+        ]
+      },
+      {
+        "name": "Beta-D-Glucose",
+        "information": [
+          {
+            "databaseId": "HMDB0000516"
+          }
+        ]
+      },
+      {
+        "name": "D-Fructose",
+        "information": [
+          {
+            "databaseId": "HMDB0000660"
+          }
+        ]
+      },
+      {
+        "name": "Allose",
+        "information": [
+          {
+            "databaseId": "HMDB0001151"
+          }
+        ]
+      },
+      {
+        "name": "L-Sorbose",
+        "information": [
+          {
+            "databaseId": "HMDB0001266"
+          }
+        ]
+      },
+      {
+        "name": "Alpha-D-Glucose",
+        "information": [
+          {
+            "databaseId": "HMDB0003345"
+          }
+        ]
+      },
+      {
+        "name": "D-Tagatose",
+        "information": [
+          {
+            "databaseId": "HMDB0003418"
+          }
+        ]
+      },
+      {
+        "name": "Beta-D-Galactose",
+        "information": [
+          {
+            "databaseId": "HMDB0003449"
+          }
+        ]
+      },
+      {
+        "name": "scyllo-Inositol",
+        "information": [
+          {
+            "databaseId": "HMDB0006088"
+          }
+        ]
+      },
+      {
+        "name": "L-Gulose",
+        "information": [
+          {
+            "databaseId": "HMDB0012326"
+          }
+        ]
+      },
+      {
+        "name": "Dihydroxyacetone (dimer)",
+        "information": [
+          {
+            "databaseId": "HMDB0032222"
+          }
+        ]
+      },
+      {
+        "name": "L-Galactose",
+        "information": [
+          {
+            "databaseId": "HMDB0033704"
+          }
+        ]
+      },
+      {
+        "name": "Levoinositol",
+        "information": [
+          {
+            "databaseId": "HMDB0034220"
+          }
+        ]
+      },
+      {
+        "name": "muco-Inositol",
+        "information": [
+          {
+            "databaseId": "HMDB0062138"
+          }
+        ]
+      },
+      {
+        "name": "D-Glucopyranoside",
+        "information": [
+          {
+            "databaseId": "HMDB0062170"
+          }
+        ]
+      },
+      {
+        "name": "3(S)-hydroxy-all-cis-8,11,14,17-eicosatetraenoyl-CoA",
+        "information": [
+          {
+            "databaseId": "HMDB0062202"
+          }
+        ]
+      },
+      {
+        "name": "Glycoprotein-phospho-D-mannose",
+        "information": [
+          {
+            "databaseId": "HMDB0062473"
+          }
+        ]
+      },
+      {
+        "name": "Fructose-1P",
+        "information": [
+          {
+            "databaseId": "HMDB0062538"
+          }
+        ]
+      },
+      {
+        "name": "2,5-bis(hydroxymethyl)oxolane-2,3,4-triol",
+        "information": [
+          {
+            "databaseId": "HMDB0125599"
+          }
+        ]
+      },
+      {
+        "name": "epi-Inositol",
+        "information": [
+          {
+            "databaseId": "HMDB0240207"
+          }
+        ]
+      },
+      {
+        "name": "neo-inositol",
+        "information": [
+          {
+            "databaseId": "HMDB0240208"
+          }
+        ]
+      },
+      {
+        "name": "D-chiro-inositol",
+        "information": [
+          {
+            "databaseId": "HMDB0240209"
+          }
+        ]
+      },
+      {
+        "name": "cis-inositol",
+        "information": [
+          {
+            "databaseId": "HMDB0240210"
+          }
+        ]
+      },
+      {
+        "name": "allo-inositol",
+        "information": [
+          {
+            "databaseId": "HMDB0240211"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_C6H12O6+Cl-_215.0328",
+      "2016-12-07_07h59m24s_C6H12O6+Cl-_216.0361",
+      "2016-12-07_07h59m24s_C6H12O6+Cl-_217.0298",
+      "2016-12-07_07h59m24s_C6H12O6+Cl-_218.0333"
+    ]
+  },
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C6H12O6_plus_Cl",
+    "sumFormula": "C6H12O6",
+    "adduct": "+Cl",
+    "ion": "C6H12O6+Cl-",
+    "mz": 215.0327501514823,
+    "msmScore": 0.985302,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.992096,
+    "rhoSpectral": 0.994258,
+    "rhoChaos": 0.998887,
+    "possibleCompounds": [
+      {
+        "name": "D-Tagatose",
+        "information": [
+          {
+            "databaseId": "HMDB03418"
+          }
+        ]
+      },
+      {
+        "name": "Myoinositol",
+        "information": [
+          {
+            "databaseId": "HMDB00211"
+          }
+        ]
+      },
+      {
+        "name": "Scyllitol",
+        "information": [
+          {
+            "databaseId": "HMDB06088"
+          }
+        ]
+      },
+      {
+        "name": "Levoinositol",
+        "information": [
+          {
+            "databaseId": "HMDB34220"
+          }
+        ]
+      },
+      {
+        "name": "Dihydroxyacetone (dimer)",
+        "information": [
+          {
+            "databaseId": "HMDB32222"
+          }
+        ]
+      },
+      {
+        "name": "L-Sorbose",
+        "information": [
+          {
+            "databaseId": "HMDB01266"
+          }
+        ]
+      },
+      {
+        "name": "D-Fructose",
+        "information": [
+          {
+            "databaseId": "HMDB00660"
+          }
+        ]
+      },
+      {
+        "name": "L-Galactose",
+        "information": [
+          {
+            "databaseId": "HMDB33704"
+          }
+        ]
+      },
+      {
+        "name": "Alpha-D-Glucose",
+        "information": [
+          {
+            "databaseId": "HMDB03345"
+          }
+        ]
+      },
+      {
+        "name": "Beta-D-Galactose",
+        "information": [
+          {
+            "databaseId": "HMDB03449"
+          }
+        ]
+      },
+      {
+        "name": "D-Glucose",
+        "information": [
+          {
+            "databaseId": "HMDB00122"
+          }
+        ]
+      },
+      {
+        "name": "Allose",
+        "information": [
+          {
+            "databaseId": "HMDB01151"
+          }
+        ]
+      },
+      {
+        "name": "D-Galactose",
+        "information": [
+          {
+            "databaseId": "HMDB00143"
+          }
+        ]
+      },
+      {
+        "name": "L-Gulose",
+        "information": [
+          {
+            "databaseId": "HMDB12326"
+          }
+        ]
+      },
+      {
+        "name": "D-Mannose",
+        "information": [
+          {
+            "databaseId": "HMDB00169"
+          }
+        ]
+      },
+      {
+        "name": "Beta-D-Glucose",
+        "information": [
+          {
+            "databaseId": "HMDB00516"
+          }
+        ]
+      },
+      {
+        "name": "3-Deoxyarabinohexonic acid",
+        "information": [
+          {
+            "databaseId": "HMDB00346"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_HMDB-v2.5_C6H12O6+Cl-_215.0328",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C6H12O6+Cl-_216.0361",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C6H12O6+Cl-_217.0298",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C6H12O6+Cl-_218.0333"
+    ]
+  },
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C19H36O2_minus_H",
+    "sumFormula": "C19H36O2",
+    "adduct": "-H",
+    "ion": "C19H36O2-H-",
+    "mz": 295.2642146974824,
+    "msmScore": 0.978867,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.983494,
+    "rhoSpectral": 0.996381,
+    "rhoChaos": 0.99891,
+    "possibleCompounds": [
+      {
+        "name": "4,6-Nonadecanedione",
+        "information": [
+          {
+            "databaseId": "HMDB0035575"
+          }
+        ]
+      },
+      {
+        "name": "Nonadeca-10(Z)-enoic acid",
+        "information": [
+          {
+            "databaseId": "HMDB0013622"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_C19H36O2-H-_295.2642",
+      "2016-12-07_07h59m24s_C19H36O2-H-_296.2676",
+      "2016-12-07_07h59m24s_C19H36O2-H-_297.2709",
+      "2016-12-07_07h59m24s_C19H36O2-H-_298.2739"
+    ]
+  },
+  {
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C19H36O2_minus_H",
+    "sumFormula": "C19H36O2",
+    "adduct": "-H",
+    "ion": "C19H36O2-H-",
+    "mz": 295.2642146974824,
+    "msmScore": 0.978867,
+    "fdrLevel": 0.05,
+    "rhoSpatial": 0.983494,
+    "rhoSpectral": 0.996381,
+    "rhoChaos": 0.99891,
+    "possibleCompounds": [
+      {
+        "name": "46-Nonadecanedione",
+        "information": [
+          {
+            "databaseId": "HMDB35575"
+          }
+        ]
+      },
+      {
+        "name": "Nonadeca-10(Z)-enoic acid",
+        "information": [
+          {
+            "databaseId": "HMDB13622"
+          }
+        ]
+      }
+    ],
+    "ionImageIds": [
+      "2016-12-07_07h59m24s_HMDB-v2.5_C19H36O2-H-_295.2642",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C19H36O2-H-_296.2676",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C19H36O2-H-_297.2709",
+      "2016-12-07_07h59m24s_HMDB-v2.5_C19H36O2-H-_298.2739"
+    ]
+  }
+]

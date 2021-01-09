@@ -1,0 +1,322 @@
+[
+  {
+    "mz": 355.1065838074823,
+    "url": "/fs/iso_images/bfe368246d5b030d57c82c2af7be36c1",
+    "minIntensity": 0,
+    "maxIntensity": 459672.5,
+    "totalIntensity": 953042687.1583099,
+    "id": "2016-12-07_07h59m24s_C16H20N2O5+Cl-_355.1066"
+  },
+  {
+    "mz": 356.10995924329876,
+    "url": "/fs/iso_images/49c2fe5b62eba1e4783b60821f3dc9da",
+    "minIntensity": 0,
+    "maxIntensity": 80285.1875,
+    "totalIntensity": 167688520.26696777,
+    "id": "2016-12-07_07h59m24s_C16H20N2O5+Cl-_356.1100"
+  },
+  {
+    "mz": 357.10364806792467,
+    "url": "/fs/iso_images/d6c6597019ffeb2bcf0b6d371a2fee94",
+    "minIntensity": 0,
+    "maxIntensity": 146093.0625,
+    "totalIntensity": 303000056.01101303,
+    "id": "2016-12-07_07h59m24s_C16H20N2O5+Cl-_357.1036"
+  },
+  {
+    "mz": 358.1070640592424,
+    "url": "/fs/iso_images/ec6bece16d9c103ad11b82477f35e4ac",
+    "minIntensity": 0,
+    "maxIntensity": 25795.6015625,
+    "totalIntensity": 53446316.16947937,
+    "id": "2016-12-07_07h59m24s_C16H20N2O5+Cl-_358.1071"
+  },
+  {
+    "mz": 355.1065838074823,
+    "url": "/fs/iso_images/1ff4ecb2cdb7a1ab498984fd5ec90733",
+    "minIntensity": 0,
+    "maxIntensity": 459672.5,
+    "totalIntensity": 953042687.1583122,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C16H20N2O5+Cl-_355.1066"
+  },
+  {
+    "mz": 356.10995924329876,
+    "url": "/fs/iso_images/a6632e12c2edab743faa90906645b794",
+    "minIntensity": 0,
+    "maxIntensity": 80285.1875,
+    "totalIntensity": 167688520.2669672,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C16H20N2O5+Cl-_356.1100"
+  },
+  {
+    "mz": 357.10364806792467,
+    "url": "/fs/iso_images/f84c7b1f6a85cac2a3d24d62efdc77f0",
+    "minIntensity": 0,
+    "maxIntensity": 146093.0625,
+    "totalIntensity": 303000056.0109998,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C16H20N2O5+Cl-_357.1036"
+  },
+  {
+    "mz": 358.1070640592424,
+    "url": "/fs/iso_images/6b18fe49be81837784409bb391950e37",
+    "minIntensity": 0,
+    "maxIntensity": 25795.6015625,
+    "totalIntensity": 53446316.16948122,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C16H20N2O5+Cl-_358.1071"
+  },
+  {
+    "mz": 512.2687077614879,
+    "url": "/fs/iso_images/e36816ef2ece9eb26286b1774243bbb2",
+    "minIntensity": 0,
+    "maxIntensity": 296650.71875,
+    "totalIntensity": 379472250.375309,
+    "id": "2016-12-07_07h59m24s_C26H43NO7S-H-_512.2687"
+  },
+  {
+    "mz": 513.2720676844654,
+    "url": "/fs/iso_images/a7f6bfa93d9bf1f86c6d43425fffbe0e",
+    "minIntensity": 0,
+    "maxIntensity": 88048.2109375,
+    "totalIntensity": 106912183.051712,
+    "id": "2016-12-07_07h59m24s_C26H43NO7S-H-_513.2721"
+  },
+  {
+    "mz": 514.2645276845826,
+    "url": "/fs/iso_images/ede8e8dce603b7a78fee6a02b36f6afc",
+    "minIntensity": 0,
+    "maxIntensity": 13304.01953125,
+    "totalIntensity": 15415312.520370476,
+    "id": "2016-12-07_07h59m24s_C26H43NO7S-H-_514.2645"
+  },
+  {
+    "mz": 514.2752940915171,
+    "url": "/fs/iso_images/77897bc6f5d6d2296a41455772d03d2a",
+    "minIntensity": 0,
+    "maxIntensity": 11693.911132812,
+    "totalIntensity": 15708602.595649702,
+    "id": "2016-12-07_07h59m24s_C26H43NO7S-H-_514.2753"
+  },
+  {
+    "mz": 512.2687077614879,
+    "url": "/fs/iso_images/4450bf2d2a67f9f7924eebf8da83bfbd",
+    "minIntensity": 0,
+    "maxIntensity": 296650.71875,
+    "totalIntensity": 379472250.3753104,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C26H43NO7S-H-_512.2687"
+  },
+  {
+    "mz": 513.2720676844654,
+    "url": "/fs/iso_images/062db6799644cdcf3d09797d83e51a33",
+    "minIntensity": 0,
+    "maxIntensity": 88048.2109375,
+    "totalIntensity": 106912183.0517126,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C26H43NO7S-H-_513.2721"
+  },
+  {
+    "mz": 514.2645276845826,
+    "url": "/fs/iso_images/3bd55ee89878d67cbd811bfaa1907ba9",
+    "minIntensity": 0,
+    "maxIntensity": 13304.0195312,
+    "totalIntensity": 15415312.52037021,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C26H43NO7S-H-_514.2645"
+  },
+  {
+    "mz": 514.2752940915171,
+    "url": "/fs/iso_images/1dd92561612d453b5f840f43e0aefdc9",
+    "minIntensity": 0,
+    "maxIntensity": 11693.9111328,
+    "totalIntensity": 15708602.595649732,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C26H43NO7S-H-_514.2753"
+  },
+  {
+    "mz": 255.23291456948232,
+    "url": "/fs/iso_images/b70ea893720350a6a586849f69feb16e",
+    "minIntensity": 67.565834045,
+    "maxIntensity": 382781.59375,
+    "totalIntensity": 241548138.26778412,
+    "id": "2016-12-07_07h59m24s_C16H32O2-H-_255.2329"
+  },
+  {
+    "mz": 256.2362885827639,
+    "url": "/fs/iso_images/403e50402d97d858c5c59ec96b154b0f",
+    "minIntensity": 0,
+    "maxIntensity": 65445.62109375,
+    "totalIntensity": 41483929.31272511,
+    "id": "2016-12-07_07h59m24s_C16H32O2-H-_256.2363"
+  },
+  {
+    "mz": 257.2395280652545,
+    "url": "/fs/iso_images/437b73451447a9a35d59f0e664c876f0",
+    "minIntensity": 0,
+    "maxIntensity": 4590.126953125,
+    "totalIntensity": 2746430.473220836,
+    "id": "2016-12-07_07h59m24s_C16H32O2-H-_257.2395"
+  },
+  {
+    "mz": 258.24175729649204,
+    "url": "/fs/iso_images/065b254decdb04e9cb64b854d4038195",
+    "minIntensity": 0,
+    "maxIntensity": 94.832336426,
+    "totalIntensity": 185.798828125,
+    "id": "2016-12-07_07h59m24s_C16H32O2-H-_258.2418"
+  },
+  {
+    "mz": 255.23291456948232,
+    "url": "/fs/iso_images/3866598032dd49abddbb4f5839d870f2",
+    "minIntensity": 67.565834045,
+    "maxIntensity": 382781.59375,
+    "totalIntensity": 241548138.2677793,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C16H32O2-H-_255.2329"
+  },
+  {
+    "mz": 256.2362885827639,
+    "url": "/fs/iso_images/bbda28df62b3c532a666d35ac19b5033",
+    "minIntensity": 0,
+    "maxIntensity": 65445.6210938,
+    "totalIntensity": 41483929.31272627,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C16H32O2-H-_256.2363"
+  },
+  {
+    "mz": 257.2395280652545,
+    "url": "/fs/iso_images/0fc4bc225460da218ecb778c080f04d2",
+    "minIntensity": 0,
+    "maxIntensity": 4590.12695312,
+    "totalIntensity": 2746430.473220763,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C16H32O2-H-_257.2395"
+  },
+  {
+    "mz": 258.24175729649204,
+    "url": "/fs/iso_images/a7b35fef100f240fd710dfbe25bd2f45",
+    "minIntensity": 0,
+    "maxIntensity": 94.832336426,
+    "totalIntensity": 185.798828125,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C16H32O2-H-_258.2418"
+  },
+  {
+    "mz": 215.0327501514823,
+    "url": "/fs/iso_images/8d6f1f61d174b1ceac064607b6777fb7",
+    "minIntensity": 0,
+    "maxIntensity": 159323.84375,
+    "totalIntensity": 260167886.009346,
+    "id": "2016-12-07_07h59m24s_C6H12O6+Cl-_215.0328"
+  },
+  {
+    "mz": 216.03613649480624,
+    "url": "/fs/iso_images/11b6e335820e72b5a0e8fa86484859f8",
+    "minIntensity": 0,
+    "maxIntensity": 10698.11328125,
+    "totalIntensity": 17341660.372249644,
+    "id": "2016-12-07_07h59m24s_C6H12O6+Cl-_216.0361"
+  },
+  {
+    "mz": 217.02980665118903,
+    "url": "/fs/iso_images/8d0ec12073f6f2d77b9f5b9e45eb2564",
+    "minIntensity": 0,
+    "maxIntensity": 54232.75,
+    "totalIntensity": 88188248.0690613,
+    "id": "2016-12-07_07h59m24s_C6H12O6+Cl-_217.0298"
+  },
+  {
+    "mz": 218.03325059533424,
+    "url": "/fs/iso_images/9c2399912460763e1a66a0933f79349e",
+    "minIntensity": 0,
+    "maxIntensity": 3706.445068359,
+    "totalIntensity": 6054177.22092055,
+    "id": "2016-12-07_07h59m24s_C6H12O6+Cl-_218.0333"
+  },
+  {
+    "mz": 215.0327501514823,
+    "url": "/fs/iso_images/2e17f0c2350193e05172e374d96e41f0",
+    "minIntensity": 0,
+    "maxIntensity": 159323.84375,
+    "totalIntensity": 260167886.00933853,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C6H12O6+Cl-_215.0328"
+  },
+  {
+    "mz": 216.03613649480624,
+    "url": "/fs/iso_images/19266be4a5f1a5e374233d7d24e6f588",
+    "minIntensity": 0,
+    "maxIntensity": 10698.1132812,
+    "totalIntensity": 17341660.37224932,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C6H12O6+Cl-_216.0361"
+  },
+  {
+    "mz": 217.02980665118903,
+    "url": "/fs/iso_images/78a9030579b22a480d9373bee9f4057e",
+    "minIntensity": 0,
+    "maxIntensity": 54232.75,
+    "totalIntensity": 88188248.06906193,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C6H12O6+Cl-_217.0298"
+  },
+  {
+    "mz": 218.03325059533424,
+    "url": "/fs/iso_images/e3640d6527a195c1c57f248814c48d8b",
+    "minIntensity": 0,
+    "maxIntensity": 3706.44506836,
+    "totalIntensity": 6054177.220920506,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C6H12O6+Cl-_218.0333"
+  },
+  {
+    "mz": 295.2642146974824,
+    "url": "/fs/iso_images/39d8e7acebeefbdb7fa5a73bc31014b2",
+    "minIntensity": 0,
+    "maxIntensity": 99990.484375,
+    "totalIntensity": 33064088.236328095,
+    "id": "2016-12-07_07h59m24s_C19H36O2-H-_295.2642"
+  },
+  {
+    "mz": 296.26758197251974,
+    "url": "/fs/iso_images/18f41211089f3587c1266425e190ea33",
+    "minIntensity": 0,
+    "maxIntensity": 20228.642578125,
+    "totalIntensity": 6606202.667369837,
+    "id": "2016-12-07_07h59m24s_C19H36O2-H-_296.2676"
+  },
+  {
+    "mz": 297.2708641925173,
+    "url": "/fs/iso_images/a60a5ea8ddc2d0f904b0f62dda3e137b",
+    "minIntensity": 0,
+    "maxIntensity": 1466.962890625,
+    "totalIntensity": 499832.17700193403,
+    "id": "2016-12-07_07h59m24s_C19H36O2-H-_297.2709"
+  },
+  {
+    "mz": 298.2738999432378,
+    "url": "/fs/iso_images/2e6b906e658bd0c978418d53dfc01867",
+    "minIntensity": 0,
+    "maxIntensity": 122.690513611,
+    "totalIntensity": 338.509765625,
+    "id": "2016-12-07_07h59m24s_C19H36O2-H-_298.2739"
+  },
+  {
+    "mz": 295.2642146974824,
+    "url": "/fs/iso_images/ec0b49db10d0f76213e8d7012f371dbf",
+    "minIntensity": 0,
+    "maxIntensity": 99990.484375,
+    "totalIntensity": 33064088.23632761,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C19H36O2-H-_295.2642"
+  },
+  {
+    "mz": 296.26758197251974,
+    "url": "/fs/iso_images/692f744bfff1ccc88d02a87c08aed110",
+    "minIntensity": 0,
+    "maxIntensity": 20228.6425781,
+    "totalIntensity": 6606202.667369856,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C19H36O2-H-_296.2676"
+  },
+  {
+    "mz": 297.2708641925173,
+    "url": "/fs/iso_images/90829d292c498e85fe6bc5c85fe83675",
+    "minIntensity": 0,
+    "maxIntensity": 1466.96289062,
+    "totalIntensity": 499832.177001925,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C19H36O2-H-_297.2709"
+  },
+  {
+    "mz": 298.2738999432378,
+    "url": "/fs/iso_images/936275aea65528b30d8bbb4f89ddeea5",
+    "minIntensity": 0,
+    "maxIntensity": 122.690513611,
+    "totalIntensity": 338.509765625,
+    "id": "2016-12-07_07h59m24s_HMDB-v2.5_C19H36O2-H-_298.2739"
+  }
+]

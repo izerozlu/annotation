@@ -1,0 +1,12 @@
+$primary: #184d47;
+$accent: #fad586;
+
+@function primary-alpha($alpha: 1) {
+  @return rgba(24, 77, 71, $alpha);
+}
+@function accent-alpha($alpha: 1) {
+  @return rgba(250, 213, 134, $alpha);
+}
+
+$gray-400: #bdbdbd;
+$gray-500: #9e9e9e;

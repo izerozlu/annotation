@@ -1,0 +1,53 @@
+{
+  "id": "2016-12-07_07h59m24s",
+  "name": "20160211_ADP_ecoli_posneg_70x145_100x2000_neg",
+  "submitter": {
+    "id": "5727e8f6-e1dd-11e8-9d75-33795f557356",
+    "name": "Andrew Palmer",
+    "email": null
+  },
+  "principalInvestigator": null,
+  "group": {
+    "id": "5727e852-e1dd-11e8-9d75-5fefa7059e48",
+    "name": "European Molecular Biology Laboratory",
+    "shortName": "EMBL"
+  },
+  "groupApproved": false,
+  "projects": [
+    {
+      "id": "0ba2344a-e293-11e8-9d75-5bd403bd29be",
+      "name": "Microbial agar plates"
+    }
+  ],
+  "polarity": "NEGATIVE",
+  "ionisationSource": "MALDI",
+  "analyzer": {
+    "type": "Orbitrap"
+  },
+  "organism": "Candida albicans | Escherichia coli",
+  "organismPart": "Microbial colony",
+  "condition": "Wildtype",
+  "growthConditions": "Cultured 2D",
+  "metadataJson": "{\"Data_Type\":\"Imaging MS\",\"Sample_Information\":{\"Condition\":\"Wildtype\",\"Organism_Part\":\"Microbial colony\",\"Organism\":\"Candida albicans | Escherichia coli\",\"Sample_Growth_Conditions\":\"Cultured 2D\"},\"Sample_Preparation\":{\"MALDI_Matrix\":\"2,5-dihydroxybenzoic acid (DHB)\",\"Tissue_Modification\":\"None\",\"Sample_Stabilisation\":\"Fresh frozen\",\"MALDI_Matrix_Application\":\"Spray robot\",\"Solvent\":\"none\"},\"MS_Analysis\":{\"Polarity\":\"Negative\",\"Ionisation_Source\":\"MALDI\",\"Analyzer\":\"Orbitrap\",\"Detector_Resolving_Power\":{\"Resolving_Power\":140000,\"mz\":200}},\"Additional_Information\":{\"Supplementary\":\"\"}}",
+  "isPublic": true,
+  "molDBs": [
+    "HMDB-v2.5",
+    "HMDB-v4"
+  ],
+  "status": "FINISHED",
+  "metadataType": "Imaging MS",
+  "thumbnailOpticalImageUrl": null,
+  "ionThumbnailUrl": "/fs/ion_thumbnails/57d8a3677237ccdaaadd832028d4d612",
+  "annotationIds": [
+    "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C16H20N2O5_plus_Cl",
+    "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C16H20N2O5_plus_Cl",
+    "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C26H43NO7S_minus_H",
+    "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C26H43NO7S_minus_H",
+    "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C16H32O2_minus_H",
+    "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C16H32O2_minus_H",
+    "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C6H12O6_plus_Cl",
+    "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C6H12O6_plus_Cl",
+    "2016-12-07_07h59m24s_HMDB-v4_2018-04-09_C19H36O2_minus_H",
+    "2016-12-07_07h59m24s_HMDB-v2.5_2018-03-08_C19H36O2_minus_H"
+  ]
+}
